@@ -2,11 +2,11 @@
 ## Project Overview
 This report focuses on understanding the company’s customer base and revenue generation, tracking daily growth rates, and monitoring month-over-month policy changes to identify trends and improvement areas. We aim to segment customers by age group and analyze data by city and age to uncover key insights.
 
-I worked on this project during my Viryual Internship in AtliQ Technologies.
+I worked on this project during my Virtual Internship in AtliQ Technologies.
 
 [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZmM2MTI5MDEtZDBjNy00MDYwLTk5NWMtNWIzZjdiMGQyODZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=2c73049311389a5d9268)
 
-Visit My Presentation Video on LinkedIn -> <a href="https://www.linkedin.com/feed/update/urn:li:activity:7243549037071609858/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/update/urn:li:activity:7243549037071609858/" height="30" width="40" /></a>
+Visit My Presentation Video on LinkedIn -> <a href="https://www.linkedin.com/posts/atharvasutar_codebasicsvirtualinternship-activity-7258470950180900864-co5p?utm_source=share&utm_medium=member_desktop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/update/urn:li:activity:7243549037071609858/" height="30" width="40" /></a>
 
 ## Tools stacks
 * PowerBi Desktop
