@@ -103,10 +103,10 @@ In Home view, all the views button are available. Users will land on a specific 
 * Age Group Analysis View
 
 ## Home Page
-![Home Page](https://github.com/user-attachments/assets/8e671c90-c7bd-40ac-8756-e7347e7bde4a)
+![Home Page](https://github.com/user-attachments/assets/3a5ab9ac-7b98-4f1e-ab3f-57e9e5009b0e)
 
 ## Overall Analysis View
-![Overall Analysis View](https://github.com/user-attachments/assets/3a5ab9ac-7b98-4f1e-ab3f-57e9e5009b0e)
+![Overall Analysis View](https://github.com/user-attachments/assets/ef2749a4-d080-4523-aa80-702c9e2fa9e5)
 
 ## Sales Mode Analysis View
 ![Sales Mode Analysis View](https://github.com/user-attachments/assets/66abedca-1f1a-44dd-98bf-b21b62748b30)
